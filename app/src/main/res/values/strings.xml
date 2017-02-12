@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feb8_17_Permissions</string>
+    <string name="dialog_message">To be able to Send the SMS, this permition is required, else, no action will be taken</string>
+    <string name="dialog_title">Permission for SMS</string>
+</resources>
